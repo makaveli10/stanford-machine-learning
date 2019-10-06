@@ -10,4 +10,4 @@ level. It is a level that is closer to that of real-world machine learning proje
 solutions can't be used to derive the lower-level Octave code that must be written to complete the assignments. 
 
 
-This repo is inspired from [keasserm ml repo] https://https://github.com/krasserm/machine-learning-notebooks
+This repo is inspired from [keasserm ml repo](https://https://github.com/krasserm/machine-learning-notebooks)
