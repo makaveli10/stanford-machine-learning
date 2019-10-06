@@ -8,3 +8,6 @@ the course, the solutions presented here demonstrate how to use scikit-learn to 
 level. It is a level that is closer to that of real-world machine learning projects. This project respects the 
 [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) as the presented 
 solutions can't be used to derive the lower-level Octave code that must be written to complete the assignments. 
+
+
+This repo is inspired from [keasserm ml repo] https://https://github.com/krasserm/machine-learning-notebooks
